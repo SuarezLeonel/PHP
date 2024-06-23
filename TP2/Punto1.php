@@ -1,7 +1,9 @@
 <html>
-<?php
-  $dias = array("Lunes", "Martes", "Miercoles", "Jueves", "Viernes", "Sabado", "Domingo");
-  echo "El primer dia de la semana es: " . $dias[0] . "<br>";
-  echo "El ultimo dia de la semana es: " . $dias[6];
-?>
+<body>
+    <?php
+        $dias = array("Lunes", "Martes", "Miércoles", "Jueves", "Viernes", "Sábado", "Domingo");
+        echo "El primer día de la semana es: " . $dias[0] . "<br>";
+        echo "El último día de la semana es: " . $dias[6];
+    ?>
+</body>
 </html>
