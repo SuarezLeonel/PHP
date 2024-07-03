@@ -1,1 +1,2 @@
-
+1. pagina1.php: Contiene un formulario para ingresar el nombre y comentario del visitante. El formulario envía los datos a pagina2.php con el método POST.
+2. pagina2.php: Recibe los datos del formulario, abre el archivo datos.txt en modo de añadir (a), graba los datos del visitante y luego cierra el archivo. Muestra un mensaje confirmando que el comentario ha sido guardado.
