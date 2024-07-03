@@ -6,7 +6,7 @@
     <title>Registro de Usuario</title>
 </head>
 <body>
-    <form action="procesar_registro.php" method="post">
+    <form action="index2.php" method="post">
         Nombre de Usuario: <input type="text" name="usuario"><br>
         Clave: <input type="password" name="clave1"><br>
         Repetir Clave: <input type="password" name="clave2"><br>
