@@ -1,0 +1,2 @@
+1. pagina1.php: Esta página contiene un formulario HTML que solicita el nombre y un comentario del visitante. El formulario envía estos datos a pagina2.php utilizando el método POST.
+2. pagina2.php: Esta página PHP recibe los datos del formulario enviados desde pagina1.php, abre el archivo datos.txt en modo de añadir (a), escribe el nombre y el comentario en el archivo, y luego lo cierra. Finalmente, muestra un mensaje de confirmación y un enlace para volver a pagina1.php.
