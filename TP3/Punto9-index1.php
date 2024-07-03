@@ -6,7 +6,7 @@
     <title>Inscripción de Estudiantes</title>
 </head>
 <body>
-    <form action="procesar_inscripcion.php" method="post">
+    <form action="index2.php" method="post">
         Apellidos y Nombres: <input type="text" name="nombre"><br>
         DNI: <input type="text" name="dni"><br>
         Fecha de Nacimiento: <input type="date" name="fecha_nacimiento"><br>
